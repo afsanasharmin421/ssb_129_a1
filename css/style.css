@@ -1,0 +1,57 @@
+
+    *{
+	margin:0;
+	}
+	p{
+	  font-size:14px;
+	  
+	  line-height:30px;
+	  margin-top: 20px;
+	  margin-bottom:20px;
+	}
+	
+	div
+	{
+	  width:1200px;
+	  margin:auto;
+	}
+	
+	body
+	{
+		background-color:#ffcccc;
+		
+	}
+	
+	table tr,td
+	{
+		
+		border: 1px solid green;
+        background-color:#F9B0B0 ;
+		
+		
+	}
+	
+	table tr,td
+	{
+		background-color:white;
+		
+	}
+	
+	
+	th,td{
+		
+		padding:7px;
+		
+		
+	}
+	
+	div{
+		
+		background-color:#b39898;
+	
+	}
+	
+	
+	
+    
+ 
